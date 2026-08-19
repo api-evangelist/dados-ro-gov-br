@@ -29,7 +29,7 @@ tags:
   - Brazil
 created: '2026-06-07'
 modified: '2026-06-07'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: dados-ro-gov-br:catalog
     name: Rondonia Open Data CKAN Action API
